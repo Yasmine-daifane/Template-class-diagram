@@ -9,6 +9,6 @@ Dans ce projet, nous utilisons le fichier "templateDC.loo" comme modèle pour no
 - Note : Il est essentiel de respecter strictement le design du modèle, y compris le maintien de la couleur de fond des entités, sans apporter de modifications.
 
 ## Reference 
-[**Power mc**](https://www.powerdesigner.biz/EN/powerdesigner-resources/trial-download-167.html)
+[**PowerDesingner**](https://www.powerdesigner.biz/EN/powerdesigner-resources/trial-download-167.html)
 
 [**Looping**](https://www.looping-mcd.fr/)
