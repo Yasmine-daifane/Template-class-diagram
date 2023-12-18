@@ -1,9 +1,14 @@
-# Template Diagramme De Classe 
-## we choose to work with looping-mcd logiciel 
- [ le lien de telechargement ](https://www.looping-mcd.fr/)
- ## Using the Provided Template in the "Looping" Software
- ### what you have to do : 
-In this project, we are utilizing the "templateDC.loo" file as a template for our work. To get started, please download the provided "templateDC.loo" file and open it in the "Looping" software. 
-- Note : It is essential to strictly adhere to the template's design, including maintaining the background color of the entities, without making any alterations.
+# Diagramme de Classe Modèle
 
- 
+
+Dans ce projet, nous utilisons le fichier "templateDC.loo" comme modèle pour notre travail. Pour commencer, veuillez télécharger le fichier "templateDC.loo" fourni et l'ouvrir dans le logiciel "Looping".
+
+<img src="templateDC.jpg">
+
+
+- Note : Il est essentiel de respecter strictement le design du modèle, y compris le maintien de la couleur de fond des entités, sans apporter de modifications.
+
+## Reference 
+[**Téléchargement du fichier modèle**](https://www.powerdesigner.biz/EN/powerdesigner-resources/trial-download-167.html)
+
+[**Téléchargement du fichier modèle**](https://www.looping-mcd.fr/)
